@@ -24,4 +24,3 @@ This Excel project analyzes sales, discounts, and profitability of a pizza chain
 - Pivot Tables
 - Conditional Formatting
 - Time Slot Logic & Discount Computation
-
